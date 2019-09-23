@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Cashe"  thread-count="3" verbose="6">	
+
+   <!--  <listeners>
+		<listener class-name="com.extent.tests.ListenerClass" />
+	</listeners> -->
+	 <test name="MakeNewCustomer" parallel="instances">
+		<classes>
+			<class name="com.cashe.mobile.tests.MakeNewCustomer" />
+		</classes>
+	</test>  
+
+	
+</suite>

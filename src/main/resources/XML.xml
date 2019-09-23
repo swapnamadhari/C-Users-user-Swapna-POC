@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+  <configuration>
+    <!-- report theme -->
+    <!-- standard, dark -->
+    <theme>dark</theme>
+  
+    <!-- document encoding -->
+    <!-- defaults to UTF-8 -->
+    <encoding>UTF-8</encoding>
+    
+    <!-- protocol for script and stylesheets -->
+    <!-- defaults to https -->
+    <protocol>https</protocol>
+    
+    <!-- title of the document -->
+    <documentTitle>Cashe Automation Reports</documentTitle>
+    
+    <!-- report name - displayed at top-nav -->
+    <reportName>My Generated Report</reportName>
+   
+    <!-- report name - displayed at top-nav -->
+    <reportName>
+	
+	
+	<![CDATA[
+            <img src='../Reports/CASHe-Logo1.png' />
+        ]]>
+	</reportName>
+    
+    <!-- report headline - displayed at top-nav, after reportHeadline -->
+    <reportHeadline></reportHeadline>
+    
+    <!-- global date format override -->
+    <!-- defaults to yyyy-MM-dd -->
+    <dateFormat>dd-MM-yyyy</dateFormat>
+    
+    <!-- global time format override -->
+    <!-- defaults to HH:mm:ss -->
+    <timeFormat>HH:mm:ss</timeFormat>
+    
+    <!-- custom javascript -->
+    <scripts>
+      <![CDATA[
+		$(document).ready(function() { $('.logo-content',this).hide();$('.logo-container').html("<img src='./aeries.png' />");$('.logo-container').css('float', 'right');$('.logo-container').css('width','20px');$('.logo-container > img').css('height', '48px');$('.logo-container > img').css('width', '228px');$('.logo-container > img').css('margin-top', '0px') })		
+	 ]]>
+    </scripts>
+    
+    <!-- custom styles -->
+ 
+    <styles>
+            <![CDATA[
+                .report-name { padding-left: 100px; } .report-name > img { float: right;height: 41px;margin-left: 461px;margin-top: 4px;width: 200px, ; }
+            ]]>
+        </styles>
+  </configuration>
+</extentreports>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" verbose="3" name="Failed suite [Cashe]">
+  <test name="AdminTest(failed)" parallel="instances">
+    <classes>
+      <class name="com.cashe.mobile.tests.AdminTestFlow">
+        <methods>
+          <include name="tt"/>
+          <include name="tt"/>
+          <include name="tt"/>
+        </methods>
+      </class> <!-- com.cashe.mobile.tests.AdminTestFlow -->
+    </classes>
+  </test> <!-- AdminTest(failed) -->
+</suite> <!-- Failed suite [Cashe] -->

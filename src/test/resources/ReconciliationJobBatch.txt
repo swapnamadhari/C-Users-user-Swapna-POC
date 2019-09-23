@@ -1,0 +1,5 @@
+SHELL=/bin/bash
+cd /batch/CasheBatch
+echo $PATH
+echo $JAVA_HOME
+/usr/bin/java  -Xms128m -Xmx1024m -cp "/batch/CasheBatch/cashebatchlib/*" com.cashe.batch.test.ReconciliationJobTest >> /home/vijaykumarmattaparthi98096/VijayMTestTues_29Mar18.log 2>&1

@@ -1,0 +1,254 @@
+[2018-08-04 15:06:08.927 ] INFO  [com.cashe.base.BasePage]  - Successufully opened application
+[2018-08-04 15:07:10.660 ] INFO  [com.cashe.base.BasePage]  - Successufully opened application
+[2018-08-04 15:07:15.396 ] INFO  [com.cashe.base.BasePage]  - Sucessfully clicked on Apply now button
+[2018-08-04 15:07:15.397 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 417 milliseconds.
+[2018-08-04 15:07:22.607 ] INFO  [com.cashe.base.BasePage]  - Sucessfully clicked on Google button
+[2018-08-04 15:07:22.610 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 356 milliseconds.
+[2018-08-04 15:07:43.563 ] INFO  [com.cashe.base.BasePage]  - Sucessfully clicked on Allow button
+[2018-08-04 15:07:43.566 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 808 milliseconds.
+[2018-08-04 15:08:17.562 ] INFO  [com.cashe.base.BasePage]  - Sucessfully clicked on Back button
+[2018-08-04 15:08:17.562 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 942 milliseconds.
+[2018-08-04 15:08:19.178 ] INFO  [com.cashe.base.BasePage]  - Sucessfully clicked on Google button
+[2018-08-04 15:08:19.179 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 331 milliseconds.
+[2018-08-04 15:12:08.776 ] INFO  [com.cashe.base.BasePage]  - Successufully opened application
+[2018-08-04 15:12:13.654 ] INFO  [com.cashe.base.BasePage]  - Sucessfully clicked on Apply now button
+[2018-08-04 15:12:13.655 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 506 milliseconds.
+[2018-08-04 15:12:19.707 ] INFO  [com.cashe.base.BasePage]  - Successufully opened application
+[2018-08-04 15:12:26.030 ] INFO  [com.cashe.base.BasePage]  - Sucessfully clicked on Apply now button
+[2018-08-04 15:12:26.030 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 1850 milliseconds.
+[2018-08-04 15:12:39.510 ] INFO  [com.cashe.base.BasePage]  - Sucessfully clicked on Google button
+[2018-08-04 15:12:39.510 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 2849 milliseconds.
+[2018-08-04 15:13:17.017 ] INFO  [com.cashe.base.BasePage]  - Sucessfully clicked on Google button
+[2018-08-04 15:13:17.019 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 519 milliseconds.
+[2018-08-04 15:13:43.957 ] INFO  [com.cashe.base.BasePage]  - Sucessfully clicked on Allow button
+[2018-08-04 15:13:43.958 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 563 milliseconds.
+[2018-08-04 15:14:33.596 ] INFO  [com.cashe.base.BasePage]  - Sucessfully clicked on Back button
+[2018-08-04 15:14:33.598 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 1458 milliseconds.
+[2018-08-04 15:14:37.906 ] INFO  [com.cashe.base.BasePage]  - Sucessfully clicked on Google button
+[2018-08-04 15:14:37.907 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 1304 milliseconds.
+[2018-08-04 15:14:51.134 ] INFO  [com.cashe.base.BasePage]  - Sucessfully clicked on Back button
+[2018-08-04 15:14:51.135 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 430 milliseconds.
+[2018-08-04 15:14:53.036 ] INFO  [com.cashe.base.BasePage]  - Sucessfully clicked on Google button
+[2018-08-04 15:14:53.037 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 478 milliseconds.
+[2018-08-04 15:15:16.241 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:15:16.244 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 1121 milliseconds.
+[2018-08-04 15:15:17.170 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:15:17.171 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 927 milliseconds.
+[2018-08-04 15:15:30.838 ] INFO  [com.cashe.base.BasePage]  - Sucessfully entered mobile Number
+[2018-08-04 15:15:30.839 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 11332 milliseconds.
+[2018-08-04 15:15:37.783 ] INFO  [com.cashe.base.BasePage]  - Sucessfully clicked on verify button
+[2018-08-04 15:15:37.784 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 544 milliseconds.
+[2018-08-04 15:15:43.108 ] INFO  [com.cashe.base.BasePage]  - Sucessfully clicked on Back button
+[2018-08-04 15:15:43.109 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 1601 milliseconds.
+[2018-08-04 15:15:47.214 ] INFO  [com.cashe.base.BasePage]  - Sucessfully clicked on Log out button
+[2018-08-04 15:15:47.215 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 1900 milliseconds.
+[2018-08-04 15:15:51.409 ] INFO  [com.cashe.base.BasePage]  - Sucessfully clicked on logout button in Pop-up
+[2018-08-04 15:15:51.410 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 1545 milliseconds.
+[2018-08-04 15:16:53.968 ] INFO  [com.cashe.base.BasePage]  - Sucessfully clicked on Google button
+[2018-08-04 15:16:53.968 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 415 milliseconds.
+[2018-08-04 15:17:19.982 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:17:19.983 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 4378 milliseconds.
+[2018-08-04 15:17:20.587 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:17:20.587 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 603 milliseconds.
+[2018-08-04 15:17:22.292 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:17:22.293 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 1705 milliseconds.
+[2018-08-04 15:17:23.386 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:17:23.387 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 588 milliseconds.
+[2018-08-04 15:17:24.348 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:17:24.348 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 961 milliseconds.
+[2018-08-04 15:17:25.198 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:17:25.198 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 849 milliseconds.
+[2018-08-04 15:17:26.897 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:17:26.898 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 811 milliseconds.
+[2018-08-04 15:17:28.311 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:17:28.312 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 1414 milliseconds.
+[2018-08-04 15:17:32.475 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:17:32.475 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 542 milliseconds.
+[2018-08-04 15:17:39.015 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:17:39.015 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 6539 milliseconds.
+[2018-08-04 15:17:39.842 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:17:39.842 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 826 milliseconds.
+[2018-08-04 15:17:52.922 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:17:52.922 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 9078 milliseconds.
+[2018-08-04 15:17:54.451 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:17:54.452 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 1529 milliseconds.
+[2018-08-04 15:17:55.335 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:17:55.336 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 462 milliseconds.
+[2018-08-04 15:17:56.196 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:17:56.197 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 861 milliseconds.
+[2018-08-04 15:17:57.209 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:17:57.209 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 1012 milliseconds.
+[2018-08-04 15:18:03.772 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:18:03.772 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 747 milliseconds.
+[2018-08-04 15:18:08.530 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:18:08.533 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 4760 milliseconds.
+[2018-08-04 15:18:09.747 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:18:09.748 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 1215 milliseconds.
+[2018-08-04 15:18:15.350 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:18:15.350 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 597 milliseconds.
+[2018-08-04 15:18:16.399 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:18:16.399 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 1048 milliseconds.
+[2018-08-04 15:18:26.570 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:18:26.571 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 413 milliseconds.
+[2018-08-04 15:18:27.397 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:18:27.397 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 826 milliseconds.
+[2018-08-04 15:18:29.411 ] INFO  [com.cashe.base.BasePage]  - Success user eligible for loan
+[2018-08-04 15:18:29.725 ] INFO  [com.cashe.base.BasePage]  - Loan eligible message :CasheTest, by completing your
+profile, you can get cash up to
+[2018-08-04 15:18:30.084 ] INFO  [com.cashe.base.BasePage]  - Loan eligible amount :₹ 41000
+[2018-08-04 15:18:34.270 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:18:34.271 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 348 milliseconds.
+[2018-08-04 15:18:36.208 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:18:36.209 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 1938 milliseconds.
+[2018-08-04 15:18:43.965 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:18:43.965 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 7756 milliseconds.
+[2018-08-04 15:18:45.434 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:18:45.435 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 1469 milliseconds.
+[2018-08-04 15:18:45.812 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:18:45.813 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 378 milliseconds.
+[2018-08-04 15:18:46.641 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:18:46.641 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 828 milliseconds.
+[2018-08-04 15:18:47.603 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:18:47.604 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 962 milliseconds.
+[2018-08-04 15:18:48.362 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:18:48.363 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 759 milliseconds.
+[2018-08-04 15:18:49.105 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:18:49.106 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 743 milliseconds.
+[2018-08-04 15:18:49.845 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:18:49.846 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 740 milliseconds.
+[2018-08-04 15:18:50.614 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:18:50.615 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 769 milliseconds.
+[2018-08-04 15:18:51.599 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:18:51.599 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 984 milliseconds.
+[2018-08-04 15:18:52.337 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:18:52.338 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 738 milliseconds.
+[2018-08-04 15:18:53.190 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:18:53.191 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 853 milliseconds.
+[2018-08-04 15:18:53.908 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:18:53.908 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 716 milliseconds.
+[2018-08-04 15:18:54.674 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:18:54.675 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 767 milliseconds.
+[2018-08-04 15:20:00.692 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:20:00.694 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 1013 milliseconds.
+[2018-08-04 15:20:02.705 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:20:02.706 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 2011 milliseconds.
+[2018-08-04 15:20:11.055 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:20:11.057 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 7691 milliseconds.
+[2018-08-04 15:20:11.977 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:20:11.978 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 921 milliseconds.
+[2018-08-04 15:20:20.191 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:20:20.193 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 7618 milliseconds.
+[2018-08-04 15:20:21.400 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:20:21.402 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 482 milliseconds.
+[2018-08-04 15:20:30.188 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:20:30.190 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 8787 milliseconds.
+[2018-08-04 15:20:37.829 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:20:37.830 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 7639 milliseconds.
+[2018-08-04 15:20:45.227 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:20:45.227 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 7397 milliseconds.
+[2018-08-04 15:20:45.920 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:20:45.921 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 693 milliseconds.
+[2018-08-04 15:20:51.089 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:20:51.090 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 5169 milliseconds.
+[2018-08-04 15:20:51.851 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:20:51.852 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 762 milliseconds.
+[2018-08-04 15:20:53.382 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:20:53.383 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 1531 milliseconds.
+[2018-08-04 15:20:57.030 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:20:57.030 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 479 milliseconds.
+[2018-08-04 15:20:59.320 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:20:59.320 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 2290 milliseconds.
+[2018-08-04 15:21:01.193 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:21:01.193 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 609 milliseconds.
+[2018-08-04 15:21:10.211 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:21:10.212 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 8737 milliseconds.
+[2018-08-04 15:21:18.500 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:21:18.501 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 8287 milliseconds.
+[2018-08-04 15:21:19.234 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:21:19.234 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 733 milliseconds.
+[2018-08-04 15:21:28.384 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:21:28.385 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 9150 milliseconds.
+[2018-08-04 15:21:36.384 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:21:36.385 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 8000 milliseconds.
+[2018-08-04 15:21:44.385 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:21:44.385 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 7999 milliseconds.
+[2018-08-04 15:21:45.105 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:21:45.106 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 720 milliseconds.
+[2018-08-04 15:21:50.692 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:21:50.692 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 5586 milliseconds.
+[2018-08-04 15:21:51.475 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:21:51.476 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 783 milliseconds.
+[2018-08-04 15:21:52.878 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:21:52.878 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 1402 milliseconds.
+[2018-08-04 15:21:57.587 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:21:57.587 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 4709 milliseconds.
+[2018-08-04 15:21:58.216 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:21:58.216 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 628 milliseconds.
+[2018-08-04 15:21:59.664 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:21:59.664 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 1447 milliseconds.
+[2018-08-04 15:22:03.446 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:22:03.446 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 437 milliseconds.
+[2018-08-04 15:22:05.443 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:22:05.443 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 1997 milliseconds.
+[2018-08-04 15:22:07.062 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:22:07.063 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 1620 milliseconds.
+[2018-08-04 15:22:15.672 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:22:15.673 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 8610 milliseconds.
+[2018-08-04 15:22:23.224 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:22:23.225 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 7552 milliseconds.
+[2018-08-04 15:22:31.072 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:22:31.073 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 7848 milliseconds.
+[2018-08-04 15:22:32.133 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:22:32.133 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 1060 milliseconds.
+[2018-08-04 15:22:38.019 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:22:38.020 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 5886 milliseconds.
+[2018-08-04 15:22:38.708 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:22:38.716 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 696 milliseconds.
+[2018-08-04 15:22:40.365 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:22:40.365 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 1648 milliseconds.
+[2018-08-04 15:22:42.553 ] INFO  [com.cashe.base.BasePage]  - 
+[2018-08-04 15:22:42.553 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 2188 milliseconds.
+[2018-08-04 15:22:46.492 ] INFO  [com.cashe.base.BasePage]  - Sucessfully clicked on Get cashe button in pop-up
+[2018-08-04 15:22:46.493 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 295 milliseconds.
+[2018-08-04 15:22:48.573 ] INFO  [com.cashe.base.BasePage]  - Sucessfully clicked on Get Cashe Navigate button
+[2018-08-04 15:22:48.574 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 368 milliseconds.
+[2018-08-04 15:22:48.574 ] INFO  [com.cashe.base.BasePage]  - Inside pop Fluent wait
+[2018-08-04 15:22:50.399 ] INFO  [com.cashe.base.BasePage]  - Waited for 15inside popfluentwait
+[2018-08-04 15:22:55.175 ] INFO  [com.cashe.base.BasePage]  - Sucessfully clicked on 90 day apply now button
+[2018-08-04 15:22:55.175 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 385 milliseconds.
+[2018-08-04 15:22:59.889 ] INFO  [com.cashe.base.BasePage]  - Available cashe is :41000
+[2018-08-04 15:41:28.209 ] INFO  [com.cashe.base.BasePage]  - Successufully opened application
+[2018-08-04 15:43:02.261 ] INFO  [org.apache.http.impl.execchain.RetryExec]  - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://device.pcloudy.com:443: The target server failed to respond
+[2018-08-04 15:43:02.264 ] INFO  [org.apache.http.impl.execchain.RetryExec]  - Retrying request to {s}->https://device.pcloudy.com:443
+[2018-08-04 15:46:46.131 ] INFO  [com.cashe.base.BasePage]  - Unbale to find Google button
+[2018-08-04 15:46:56.939 ] INFO  [org.apache.http.impl.execchain.RetryExec]  - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://device.pcloudy.com:443: The target server failed to respond
+[2018-08-04 15:46:56.940 ] INFO  [org.apache.http.impl.execchain.RetryExec]  - Retrying request to {s}->https://device.pcloudy.com:443
+[2018-08-04 15:47:52.913 ] INFO  [com.cashe.base.BasePage]  - Unbale to find Google button second time
+[2018-08-04 15:58:19.978 ] INFO  [com.cashe.base.BasePage]  - Successufully opened application
+[2018-08-04 15:58:20.627 ] INFO  [org.apache.http.impl.execchain.RetryExec]  - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://device.pcloudy.com:443: The target server failed to respond
+[2018-08-04 15:58:20.628 ] INFO  [org.apache.http.impl.execchain.RetryExec]  - Retrying request to {s}->https://device.pcloudy.com:443
+[2018-08-04 15:59:18.328 ] INFO  [com.cashe.base.BasePage]  - Successufully opened application
+[2018-08-04 15:59:19.619 ] INFO  [org.apache.http.impl.execchain.RetryExec]  - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://device.pcloudy.com:443: The target server failed to respond
+[2018-08-04 15:59:19.621 ] INFO  [org.apache.http.impl.execchain.RetryExec]  - Retrying request to {s}->https://device.pcloudy.com:443
+[2018-08-04 16:00:54.023 ] INFO  [org.apache.http.impl.execchain.RetryExec]  - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://device.pcloudy.com:443: The target server failed to respond
+[2018-08-04 16:00:54.025 ] INFO  [org.apache.http.impl.execchain.RetryExec]  - Retrying request to {s}->https://device.pcloudy.com:443
+[2018-08-04 16:03:44.326 ] INFO  [org.apache.http.impl.execchain.RetryExec]  - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://device.pcloudy.com:443: The target server failed to respond
+[2018-08-04 16:03:44.327 ] INFO  [org.apache.http.impl.execchain.RetryExec]  - Retrying request to {s}->https://device.pcloudy.com:443
+[2018-08-04 16:05:07.506 ] INFO  [org.apache.http.impl.execchain.RetryExec]  - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://device.pcloudy.com:443: The target server failed to respond
+[2018-08-04 16:05:07.507 ] INFO  [org.apache.http.impl.execchain.RetryExec]  - Retrying request to {s}->https://device.pcloudy.com:443
+[2018-08-04 16:05:19.640 ] INFO  [com.cashe.base.BasePage]  - Sucessfully clicked on Apply now button
+[2018-08-04 16:05:19.641 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 99047 milliseconds.
+[2018-08-04 16:05:26.082 ] INFO  [org.apache.http.impl.execchain.RetryExec]  - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://device.pcloudy.com:443: The target server failed to respond
+[2018-08-04 16:05:26.083 ] INFO  [org.apache.http.impl.execchain.RetryExec]  - Retrying request to {s}->https://device.pcloudy.com:443
+[2018-08-04 16:05:43.581 ] INFO  [com.cashe.base.BasePage]  - Sucessfully clicked on Apply now button
+[2018-08-04 16:05:43.582 ] INFO  [com.cashe.base.BasePage]  - Found element after waiting for 14301 milliseconds.
+[2018-08-04 16:08:15.711 ] INFO  [org.apache.http.impl.execchain.RetryExec]  - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://device.pcloudy.com:443: The target server failed to respond
+[2018-08-04 16:08:15.712 ] INFO  [org.apache.http.impl.execchain.RetryExec]  - Retrying request to {s}->https://device.pcloudy.com:443
+[2018-08-04 16:09:05.356 ] INFO  [org.apache.http.impl.execchain.RetryExec]  - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://device.pcloudy.com:443: The target server failed to respond
+[2018-08-04 16:09:05.357 ] INFO  [org.apache.http.impl.execchain.RetryExec]  - Retrying request to {s}->https://device.pcloudy.com:443
+[2018-08-04 16:09:28.263 ] INFO  [org.apache.http.impl.execchain.RetryExec]  - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://device.pcloudy.com:443: The target server failed to respond
+[2018-08-04 16:09:28.264 ] INFO  [org.apache.http.impl.execchain.RetryExec]  - Retrying request to {s}->https://device.pcloudy.com:443
+[2018-08-04 16:10:11.046 ] INFO  [org.apache.http.impl.execchain.RetryExec]  - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://device.pcloudy.com:443: The target server failed to respond
+[2018-08-04 16:10:11.049 ] INFO  [org.apache.http.impl.execchain.RetryExec]  - Retrying request to {s}->https://device.pcloudy.com:443
+[2018-08-04 18:42:56.999 ] INFO  [com.cashe.base.BasePage]  - Successufully opened application
+[2018-08-04 18:43:27.921 ] INFO  [com.cashe.base.BasePage]  - Successufully opened application

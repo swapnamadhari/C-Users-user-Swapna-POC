@@ -1,0 +1,11 @@
+SHELL=/bin/bash
+sudo bash
+#su - ec2-user
+echo $PATH
+echo $JAVA_HOME
+cd /home/ec2-user/CasheBatch
+pwd
+currdate=`date`
+echo $currdate
+date=`date +%Y%m%d-%H%M%S`
+nohup /usr/bin/java -cp "/home/ec2-user/CasheBatch/cashebatchlib/*" org.springframework.batch.core.launch.support.CommandLineJobRunner spring-batch-jobs.xml loanReconciliationJob loanReconciliation_${currdate}=$date

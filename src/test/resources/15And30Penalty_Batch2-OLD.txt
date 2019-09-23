@@ -1,0 +1,6 @@
+SHELL=/bin/bash
+sudo bash
+su - ec2-user
+echo $PATH
+echo $JAVA_HOME
+/usr/bin/java  -Xms128m -Xmx1024m -cp "/home/ec2-user/CasheBatch/cashebatchlib/*" com.cashe.batch.test.Retail15And30PenaltyCalculatorJobTest >>/home/ec2-user/cashesyslogs/VijayMTest_2.log 2>&1

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Cashe"  thread-count="1" verbose="3">	
+
+   <!--  <listeners>
+		<listener class-name="com.extent.tests.ListenerClass" />
+	</listeners> -->
+	  <!-- <test name="NewUser" parallel="instances">
+		<classes>
+			<class name="com.cashe.mobile.tests.NewCustomerLoanRequest" />
+		</classes>
+	</test>   -->
+
+	<!-- <test name="RepeatUser" parallel="instances">
+		<classes>
+			<class name="com.cashe.mobile.tests.RepeatCustomerLoanRequest" />
+			
+		</classes>
+	</test> -->
+	
+
+	
+	<test name="AdminTest" parallel="instances">
+		<classes>
+			<class name="com.cashe.mobile.tests.AdminTestFlow" />
+			
+		</classes>
+	</test>
+</suite>

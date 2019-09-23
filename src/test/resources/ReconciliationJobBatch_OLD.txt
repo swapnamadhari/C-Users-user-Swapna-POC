@@ -1,0 +1,5 @@
+SHELL=/bin/bash
+cd /home/ec2-user/CasheBatch
+echo $PATH
+echo $JAVA_HOME
+/usr/bin/java  -Xms128m -Xmx1024m -cp "/home/ec2-user/CasheBatch/cashebatchlib/*" com.cashe.batch.test.ReconciliationJobTest >>/home/ec2-user/cashesyslogs/VijayMTest_1.log 2>&1
